@@ -1,7 +1,7 @@
-title: What is your browser? BrowserDetails.com
+title: What is your browser? Find our here.
 email: hello@browserdetails.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The best way for static sites to handle form submissions.
+  Find out what browser you're using, and what it's settings are.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://BrowserDetails.com" 
 twitter_username: BrowserDetails
