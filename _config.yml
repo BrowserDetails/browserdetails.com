@@ -15,7 +15,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-google_tag_manager: GTM-MZD36BB
+google_tag_manager: GTM-TXZV9VN
 google_analytics: G-WR47C76DL8
 
 # Exclude from processing.
