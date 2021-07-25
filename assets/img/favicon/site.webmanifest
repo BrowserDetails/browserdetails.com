@@ -1,9 +1,9 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "BrowserDetails.com",
+    "short_name": "BrowserDetails",
     "icons": [
         {
-            "src": "/android-chrome-96x96.png",
+            "src": "https://browserdetails.com/assets/img/favicon/android-chrome-96x96.png",
             "sizes": "96x96",
             "type": "image/png"
         }
